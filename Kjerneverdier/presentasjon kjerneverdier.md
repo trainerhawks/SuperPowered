@@ -1,0 +1,1 @@
+# kjerneveri presentasjon
