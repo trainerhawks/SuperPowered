@@ -1,5 +1,17 @@
 # Intervju  
 Mathildes intervju med TLT grunder
+## fll introdusjon
+
+fll er en lego og robotbygge konkuranse for barn 10-16 
+
+first lego league skal være en gøy måte og forske å forskjellige tema og bygge med lego
+
+laget vårt har vært med siden tredje da var vi med på fll jr 
+
+man begynner med fll challenge i femte klasse '
+
+årets tema er super powered og det er da altså hvordan man transporterer energi.
+
 ## Innledning
 * spørsmål 1
 hva vet du om first lego league?
