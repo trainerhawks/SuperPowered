@@ -43,6 +43,19 @@ Med å ha en åpen kildekode så viser vi jo alt vi gjør og arbeider med til al
 
 Det er også en del av kjerneverdien lagarbeid fordi at vi hjelper andre lag å bli innspirert til å bli med på first lego league og vi hjelper dem til å komme på ideer.
 
+## ulemper med open source
+1 . ulempe andre lag kan se det og det kan hende at de stjeler det og plutselig har de presentasjon før oss og  når vi da presenterer en helt lik presentasjon kommer dommerne til å tru at det var vi so hermet
+
+argument 
+
+Hvis dommerne sier at vi har helt lik presentasjon så kan vi bare gå inn på nettsiden vår å vise datoen på når vi la dette ut og derfor kommer det andre laget i trøbbel og ikke oss.
+
+2 . andre lag kan ta ideen vår og gjøre den bedre 
+
+argument 
+
+hvis de absulutt må bruke vår ide for å få inspirasjon og dereter herme og gjøre det bedre da kunne de  like så gjerne tenk se ut til noe selv vi skal bare være stolte vis noen syns vår idee er så bra at de må herme etter det.
+
 # Tight loose tight
 TLT står for tight loose tight den første T en står for ramme og L står for kreativitet og frie rammer den siste T en står for det vi har lært.
 
@@ -56,7 +69,7 @@ TLT er veldig viktig for å kunne sette seg selv mål for viktige ting som må o
  # refleksjon
  Reflekterer over egen innsats og kommenterer hva som har vært bra og hva som kunne vært gjort bedre/annerledes.
 
-De som bygger roboter gjør alltid en så god jobb og er alltid villig til å jobbe med en gang de blir motivert.
+De som bygger roboter gjør alltid en så god sjobb og er alltid villig til å jobbe med en gang de blir motivert.
 
 Vi som skriver mye brainstormer hele tiden for å finne ut av hva vi skal skrive vi kunne sikkert vært litt mer motivert og ikke virke så nedlatene.
 
