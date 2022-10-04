@@ -1,21 +1,21 @@
-# Intervju  
+ # Intervju  
 Mathildes intervju med TLT grunder
 ## fll introdusjon
+Hei vi heter Maya,Marion Elise,Mathilde og Helmine
 
-fll er en lego og robotbygge konkuranse for barn 10-16 
+* spørsmål 1 
+Hva vet du om  first lego league?
+FLL er en lego og robotbygge konkuranse for barn 10-16 
 
-first lego league skal være en gøy måte og forske å forskjellige tema og bygge med lego
+First lego league skal være en gøy måte og forske å forskjellige tema og bygge med lego
 
-laget vårt har vært med siden tredje da var vi med på fll jr 
+laget vårt har vært med siden tredje da var vi med på FLL junior 
 
 man begynner med fll challenge i femte klasse '
 
 årets tema er super powered og det er da altså hvordan man transporterer energi.
 
-## Innledning
-* spørsmål 1
-hva vet du om first lego league?
-
+vi har lyst å prate med deg om TLT  
 * spørsmål 2
 Hva betyr TLT?
 
@@ -31,6 +31,9 @@ hva er det du liker så godt med TLT?
 * spørsmål 6
 bruker du ofte TLT?
 
+vår veileder fortalte oss om det
+
+har du spørsmål til oss?
 * spørsmål 7
 trur du at TLT er viktig i first lego league?
 
