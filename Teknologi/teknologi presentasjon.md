@@ -11,10 +11,10 @@ I fjor brukte vi dog gear, det et type feste for verktøyet. Det har ikke spike.
 
 
 Vi brukte bruksanvisningen som vi hadde i fjor den var til EV3 roboten.
-vi sokte po nettet etter spike bruksanvisninger. Vi bygde de spike robotene vi synes var best. Vi har 2 bygde spike roboter og 2 eller 3 EV3 roboter.
+vi søkte på nettet etter spike bruksanvisninger. Vi bygde de spike robotene vi synes var best. Vi har 2 bygde spike roboter og 2 eller 3 EV3 roboter.
 det er ikke den letteste men kreative delen av arbeidet.
 
-Vi har programert innovativt prosjekt.
+Vi har programert innovativt prosjekt m01 m02, m08.
 
 Hva har dere lært?
 
