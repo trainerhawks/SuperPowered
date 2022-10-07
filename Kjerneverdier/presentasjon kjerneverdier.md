@@ -1,4 +1,4 @@
-# kjerneverdi presantasjonen vår
+# Kjerneverdi presentasjonen vår
 (ikke bestemt om at det skal være inkludert i presentasjonen dette er mest til hjelp)
 ## introduksjon av kjerneverdiene
 Det er 6 kjerneverdier her er de alle sammen.
