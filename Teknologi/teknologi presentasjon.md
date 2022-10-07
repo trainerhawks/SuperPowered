@@ -13,8 +13,14 @@ I fjor brukte vi dog gear, det et type feste for verktøyet. Det har ikke spike.
 Vi brukte bruksanvisningen som vi hadde i fjor den var til EV3 roboten.
 vi søkte på nettet etter spike bruksanvisninger. Vi bygde de spike robotene vi synes var best. Vi har 2 bygde spike roboter og 2 eller 3 EV3 roboter.
 det er ikke den letteste men kreative delen av arbeidet.
+# strategi på bana
+Vi laget en tabell der det står om energienhetene på robotbanen. vi har samlet alle oppdrag som har noe med energienhetetene. 
+
+når vi lagde tabllen tok vi ideer og spørsmål fra den tabellen  som vi brukte
+ i fjor. b.l.a stilte vi spørsmål "hvor mange energienheter" tok det og om det "oppdraget var avhenigig av andre oppdrag" 
+
+Så sammenlignet vi svarene og finner ut svarene vi trenger. Vi har tenkt å lage flere tabller som i fjor, men vi har bare laget en til nå. Noen oppdrag gir oss energienheter og der har vi skrevet minus tegnet. Hvert program har hver sin kollone i tabellen.
 
 Vi har programert innovativt prosjekt m01 m02, m08.
 
 Hva har dere lært?
-
