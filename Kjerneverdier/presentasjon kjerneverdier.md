@@ -56,7 +56,12 @@ hvis de absolutt  må bruke vår ide for å få inspirasjon vi skal bare være s
 # Tight loose tight
 TLT står for tight loose tight den første T en står for ramme og L står for kreativitet og frie rammer den siste T en står for det vi har lært.
 
-TLT er veldig viktig for å kunne sette seg selv mål for viktige ting som må oppnås som foreksempel for at vi skal kunne være med i fll så må vi ha tre presentasjoner robotkamper og litt mer. For at vi skal kunne lykkes så må disse tingene fullføres altså det er vår ramme og jobbe innenfor.
+TLT er veldig viktig for å kunne sette seg selv mål for viktige ting som må oppnås som foreksempel for at vi skal kunne være med i fll så må vi ha tre presentasjoner robotkamper og litt mer. For at vi skal kunne lykkes så må disse tingene fullføres altså det er vår ramme og jobbe innenfor. 
+
+## Intervju med Rune fra cowork.
+Når vi snakket med Rune spurte han om vi hadde en som var leder i laget. 
+Tight loose tight er jo noe vi har sagt litt tidligere i presentasjonen, den første T "Hva skal vi være tydelig på."
+Det  må vi være enige om.Vi burde planlegge det vi skal gjøre neste gang.Og at vi i Techno Builders burde snakke om hva vi vill gjøre neste gang,sånn at de voksne ikke altid må planlegge alt.
 
  # Presenter på en gøy måte.
  Når man skal presentere er det jo viktig at man fokuserer på temaet men samtidig har det gøy ,men hvordan skal man lage en presentasjon og ha det gøy. Da kan man tenke selv hva syns er gøy og da sette sammen de ulike tingene man som er gøy til presentsjonen. Å skrive på en gøy måte kan være å samarbeide med andre, inkludere for eksempel et spill i presentasjonen, kanskje en dans,  noe rollespill, sang og forskjellige aktiviteter.
