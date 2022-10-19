@@ -42,7 +42,7 @@ Når vi snakket med Rune spurte han om vi hadde en som var leder i laget.
 Tight loose tight er jo noe vi har snakket litt om tidligere i presentasjonen, den første T "Hva skal vi være tydelig på."
 Det  må vi være enige om.Vi burde planlegge det vi skal gjøre neste gang.Og at vi i Techno Builders burde snakke om hva vi vill gjøre neste gang,sånn at de voksne ikke altid må planlegge alt.
 
- # Presenter på en gøy måte.usikker på om det skal være med
+ # Presenter på en gøy måte (usikker på om det skal være med)
  Når man skal presentere er det jo viktig at man fokuserer på temaet men samtidig har det gøy ,men hvordan skal man lage en presentasjon og ha det gøy. Da kan man tenke selv hva man selv syns er gøy og da sette sammen de ulike tingene man tenker er gøy til presentsjonen. Å skrive på en gøy måte kan være å samarbeide med andre, inkludere for eksempel et spill i presentasjonen, kanskje en dans,  noe rollespill, sang og forskjellige aktiviteter.
 
  Alt dette kan man gjøre for å ha det gøy mens man lager og når man presenterer en presentasjon.
@@ -58,7 +58,7 @@ Vi burde prøve og fokusere mer på temaet og ikke alltid bli distrahert. Å fok
 
 
 ikke bestemt om at det skal være inkludert i presentasjonen dette er mest til hjelp)
-## introduksjon av kjerneverdiene
+# Introduksjon av kjerneverdiene
 Det er 6 kjerneverdier og her er de alle sammen.
 
 ### 1.lagarbeid
