@@ -21,4 +21,4 @@ når vi lagde tabllen tok vi ideer og spørsmål fra den tabellen  som vi brukte
 
 Så sammenlignet vi svarene og finner ut svarene vi trenger. Vi har tenkt å lage flere tabller som i fjor, men vi har bare laget en til nå. Noen oppdrag gir oss energienheter og der har vi skrevet minus tegnet. Hvert program har hver sin kollone i tabellen.
 
-Vi jobbet med en tabell. dette blir vår andre tabell i år. Den første tabellen vår skrev vi ned alle opdragenesom hadde noe med energi
+Vi jobbet med en tabell. dette blir vår andre tabell i år. Den første tabellen vår skrev vi ned alle opdragenesom hadde noe med energienhetene. I den andre tabellen v
