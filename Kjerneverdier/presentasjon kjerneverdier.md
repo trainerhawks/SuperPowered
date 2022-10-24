@@ -9,10 +9,11 @@ Som for eksempel når vi lager disse presentasjonene.
 
 # OPEN SOURCE
 Vi på laget har bestemt oss for å ha open source altså åpen kildekode.
-Å det som er på Git hub som ligger på internett der alle kan se det, som vil si alle i hele verden inkludert de som jobber med FLL.
-Når vi bestemte oss for at vi skulle ha open source så tenkte vi på fordelene og ulempene. Vi la da merke til at det var flere fordeler en ulemper derfor bestemte vi oss for at vi gjør det. Åpen kilde kode for oss betyr at vi deler våre ideer og løsninger relatert til FLL.
+Å alt det som vi legger ut på Git hub ligger på internett der alle i hele verden kan se det,  inkludert de som jobber med FLL.
+Når vi bestemte oss for at vi skulle ha open source så tenkte vi på fordelene og ulempene med det. Åpen kilde kode for oss betyr at vi deler våre ideer og løsninger relatert til FLL.
 
-kanskje si det litt på en anen måte.
+ vi kan si det på en litt anen måte.
+
 Du lurer sikkert på hva dette har med kjerneverdiene å gjøre og hvorfor vi har inkludert dette i presentasjonen. Det er fordi at det å ha open source har flere kjerneverdier i seg som for eksempel inkludering og lagarbeid.
 
 Med å ha en åpen kildekode så viser vi jo alt vi gjør og arbeider med til alle på internettet som da går under kjerneverdien inkludering fordi vi lar alle få se hva vi driver med.
@@ -47,15 +48,6 @@ Det  må vi være enige om.Vi burde planlegge det vi skal gjøre neste gang.Og a
 
  Alt dette kan man gjøre for å ha det gøy mens man lager og når man presenterer en presentasjon.
 
- # Refleksjon (IKKE MED I PRESENTASJONEN)
- Reflekterer over egen innsats og kommenterer hva som har vært bra og hva som kunne vært gjort bedre/annerledes.
-
-De som bygger roboter gjør alltid en så god jobb og er alltid villig til å jobbe med en gang de blir motivert.
-
-Vi som skriver mye brainstormer hele tiden jobber godt  for å finne ut av hva vi skal skrive. vi kunne sikkert vært litt mer motivert og ikke virke så nedlatene.
-
-Vi burde prøve og fokusere mer på temaet og ikke alltid bli distrahert. Å fokusere er veldig viktig i FLL.
-
 
 ikke bestemt om at det skal være inkludert i presentasjonen dette er mest til hjelp)
 # Introduksjon av kjerneverdiene
@@ -78,3 +70,32 @@ Vi bruker alt det vi lærer til å forbedre verden og fremtiden.
 
 ### 6.innkludering
 Vi omfavner våre ulikheter og respekterer hverandre.
+Reflekterer over egen innsats og kommenterer hva som har vært bra og hva som kunne vært gjort bedre/annerledes.
+
+De som bygger roboter gjør alltid en så god jobb og er alltid villig til å jobbe med en gang de blir motivert.
+
+Vi som skriver mye brainstormer hele tiden jobber godt for å finne ut av hva vi skal skrive. vi kunne sikkert vært litt mer motivert og ikke virke så nedlatene.
+
+Vi burde prøve og fokusere mer på temaet og ikke alltid bli distrahert. Å fokusere er veldig viktig i FLL.
+
+
+
+
+
+
+
+
+
+
+
+## ikke bestemt om at det skal være inkludert i presentasjonen dette er mest til hjelp)
+
+Reflekterer over egen innsats og kommenterer hva som har vært bra og hva som kunne vært gjort bedre/annerledes.
+
+De som bygger roboter gjør alltid en så god jobb og er alltid villig til å jobbe med en gang de blir motivert.
+
+Vi som skriver mye brainstormer hele tiden jobber godt for å finne ut av hva vi skal skrive. vi kunne sikkert vært litt mer motivert og ikke virke så nedlatene.
+
+Vi burde prøve og fokusere mer på temaet og ikke alltid bli distrahert. Å fokusere er veldig viktig i FLL.
+
+ikke bestemt om at det skal være inkludert i presentasjonen dette er mest til hjelp)
