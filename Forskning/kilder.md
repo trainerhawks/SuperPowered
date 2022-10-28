@@ -13,4 +13,3 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 * [LDCad](http://www.melkert.net/LDCad/download)
     * [LDraw deledatabase (complete)](https://www.ldraw.org/parts/latest-parts.html)
     * [LDraw deledatabase (Unofficial files)](https://www.ldraw.org/library/tracker/)
-
