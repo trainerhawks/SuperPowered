@@ -11,20 +11,19 @@ Programmeringen til spike er lettere enn EV3 sin programmering. Spike bruker ord
 Hjulene på spike er lett å ta på og av og man kan bytte under en kamp. EV3 har hjul som ligger langt inne i roboten. Derfor er det ikke så lett å ta av og på hjulene under en kamp. Hjulene på spike tar en risiko i at hjulene kan bli litt løs.
  
 
-
 Vi brukte bruksanvisningen som vi hadde i fjor den var til EV3 roboten.
 vi søkte på nettet etter spike bruksanvisninger. Vi bygde de spike robotene vi synes var best. Vi har 2 bygde spike roboter og 2 eller 3 EV3 roboter.
 det er ikke den letteste men kreative delen av arbeidet. Om vi ville kunne de som bygde spike få bruke egen fantasi på designet. det ble 1 robot som var bygd av fantasi.
 
 # strategi på bana
-Vi laget en tabell der det står om energienhetene på robotbanen. vi har samlet alle oppdrag som har noe med energienhetene fordi vi ville finne de mest effektive oppdragene og som gir mest poeng. Vi må hente energienheter, fordi vi hsr ingen ved starten av kampen. 
+Vi laget en tabell der det står om energienhetene på robotbanen. vi har samlet alle oppdrag som har noe med energienhetene fordi vi ville finne de mest effektive oppdragene og som gir mest poeng. Vi må hente energienheter, fordi vi har ingen ved starten av kampen. 
 
 når vi lagde tabllen tok vi ideer og spørsmål fra den tabellen  som vi brukte
  i fjor. b.l.a stilte vi spørsmål "hvor mange energienheter" tok det og om det "oppdraget var avhenigig av andre oppdrag" 
 
-Så sammenlignet vi svarene og finner ut svarene vi trenger. Vi har tenkt å lage flere tabller som i fjor, men vi har bare laget en til nå. Noen oppdrag gir oss energienheter og der har vi skrevet minus tegnet. Hvert program har hver sin kollone i tabellen.
+Så sammenlignet vi svarene som vi fikk fra tabellen. Noen oppdrag gir oss energienheter og der har vi skrevet minus tegnet. Hvert program har hver sin kollone i tabellen.
 I den andre tabellen vår kombinerte vi oppdragene. Vi skrev ned hvor mange energienheter det tok for oppdragene kombinert, så skrev vi maksimum og minimum poeng for oppdragene kombinert. Vi la sammen poengene for å finne hvilket kombinnert oppdrag ga mest poeng.
-Når vi skulle finne de kombinerte oppdragene stilte vi på gruppa oss rundt robotbordet for å finne mulige kombinasjoner. Vi lagde tabeller i fjor også som vi tok inspirasjon fra. I fjor lagde vi 4 tabellerr men vi har bare laget to til nå i år.
+Når vi skulle finne de kombinerte oppdragene stilte vi på gruppa oss rundt robotbordet for å finne mulige kombinasjoner. Vi lagde tabeller i fjor også som vi tok inspirasjon fra. I fjor lagde vi 4 tabellerr men vi har bare laget to til i år..
 # Myblocks
 Vi lager et program med existerende blokker fra EV3 programmet og setter de sammen inn til en Myblock,slik at programmene skal bli mer presis og det blir en større sjansne for å lykkes med oppdraget.
 
