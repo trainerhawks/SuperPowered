@@ -2,13 +2,15 @@
 
 (dette skal være med i presentasjonen)
 # Når vi bruker kjerneverdiene
+## Sanniva start
 Vi på laget bruker flere av kjerneverdiene gjenntatte ganger om dagen som for eksempel når vi hjelper hverandre og når vi inkluderer og støtter  hverandre.
 
 Man bruker kjerneverdiene så mye uten at vi tenker på det.
 
 I år har vi lært to nye ting å de to tingene er open source og Tight Loose Tight.
-
+## Synniva slutt
 # OPEN SOURCE
+## Maya  start
 Vi på laget har bestemt oss for å ha open source altså åpen kildekode.
  Med å ha en åpen kildekode så legger vi alt vi gjør ut på git hub. Dette går under kjerneverdien inkludering fordi vi lar alle i hele verden få se hva vi driver med. Åpen kilde kode for oss betyr at vi deler våre ideer og løsninger relatert til FLL.
 Når vi bestemte oss for at vi skulle ha open source så tenkte vi på fordelene og ulempene med det. 
@@ -16,14 +18,16 @@ Når vi bestemte oss for at vi skulle ha open source så tenkte vi på fordelene
 
 Du lurer sikkert på hva dette har med kjerneverdiene å gjøre og hvorfor vi har inkludert dette i presentasjonen. Det er fordi at det å ha open source har flere kjerneverdier i seg som for eksempel inkludering og lagarbeid.
 Det er også en del av kjerneverdien lagarbeid fordi at vi hjelper andre lag til å bli inspirert til å bli med på first lego league og vi hjelper dem til å komme på ideer.
-
+## Maya slutt
 ## ulemper med open source
+## Sunniva start
 1 . Andre lag kan se det og det kan hende at de stjeler det og plutselig har de presentasjon før oss og  når vi da presenterer en helt lik presentasjon, kan det bli veldig dumt for oss.
 
 argument 
-
+Marion
 Hvis dommerne sier at vi har helt lik presentasjon så kan vi bare gå inn på nettsiden vår å vise datoen på når vi la det ut.
 
+## Sunniva slutt
 2 . andre lag kan ta ideen vår og gjøre den bedre 
 
 argument 
@@ -31,15 +35,18 @@ argument
 Hvis de absolutt  må bruke vår ide for å få inspirasjon skal vi  bare være stolte om noen syns vår ideen er såppas bra at de må kopiere den.
 
 # Tight loose tight
-TLT står for tight loose tight den første T en står for ramme og L står for kreativitet og frie tanker den siste T en står for det vi har lært.
+## Maya
+TLT står for tight loose tight. Den første T en står for ramme og L står for kreativitet og frie tanker den siste T en står for det vi har lært.
 
 TLT er veldig viktig for å kunne sette seg selv mål for viktige ting som må oppnås som for eksempel for at vi skal kunne være med i fll så må vi ha tre presentasjoner, robotkamper og litt mer. For at vi skal kunne lykkes så må disse tingene fullføres altså det er vår ramme og jobbe innenfor. 
 
-## Intervjuet med Rune fra cowork.
+## Intervjuet med Rune fra cowork
+## Sunniva
 vi har intevjuet en fra CoWork han het Rune som har jobbet mest med TLT i Norge.
 Når vi snakket med Rune spurte han om vi hadde en som var leder i laget. 
 Tight loose tight er jo noe vi har snakket litt om tidligere i presentasjonen, den første T "Hva skal vi være tydelig på."
-Det  må vi være enige om. Og at vi i Techno Builders burde snakke om hva vi vill gjøre neste gang,sånn at de voksne ikke altid må planlegge alt.
+Det  må vi være enige om. Og at vi i Techno Builders burde snakke om hva vi vill gjøre neste gang,sånn at de voksne ikke altid må planlegge alt. Da brukte vi kjerneverdiene oppdagelse og innovasjon, fordi oppdagelse fordi vi utforsker nye ting og
+kunnskaper og ideer , og vi brute innovasjon fordi bruker krativitet og utholdenhet for løse problemer.
 
 # Slutt
 
