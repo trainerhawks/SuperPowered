@@ -12,7 +12,7 @@ Hjulene på spike er lett å ta på og av og man kan bytte under en kamp. EV3 ha
  
 
 Vi brukte bruksanvisningen som vi hadde i fjor den var til EV3 roboten.
-vi søkte på nettet etter spike bruksanvisninger. Vi bygde de spike robotene vi synes var best. Vi har 2 bygde spike roboter og 2 eller 3 EV3 roboter.
+vi søkte på nettet etter spike bruksanvisninger. Vi bygde de spike robotene vi synes var best. Vi har 2 bygde spike roboter og 2 eller 3 EV3 roboten
 det er ikke den letteste men kreative delen av arbeidet. Om vi ville kunne de som bygde spike få bruke egen fantasi på designet. det ble 1 robot som var bygd av fantasi.
 
 # strategi på bana
@@ -29,4 +29,4 @@ Vi lager et program med existerende blokker fra EV3 programmet og setter de samm
 
 Myblocker har variabler inni seg som for den til å være mer presist, som å følge en linje og bruke gyroen mens vi snur og kjører. Vi har mybocker som kan beregne data inni i andre myblocks.
 
-Vi har f.eks. DRIVE GYRO som er en myblock som kjører framover mens den leser gyroen for å kjøre mer nøyaktig fremover. Når vi bruker drive gyro kan vi endre på farten,kpen,graderne og hvor langt vi kan kjøre, hvist man har for mye kp så begyner roboten å snurre ukontrolert vi bruker å ha 1 eller 2 kp når vi kjører fram over. Kp styrer hvor agresiv vi drar mot målet hvis vi drar før agresivt kommer den til å snurre ukontrolert. Negeatv eller posetiv verdi kommer vi til å svinge til høyre eller venstre. Drive gyro har også andre myblocks inni seg som p_ctrl og trippteler. Vi bruker trippteleren før å måle hvor mange cm den kjører fremover.
+Vi har f.eks. DRIVE GYRO som er en myblock som kjører framover mens den leser gyroen for å kjøre mer nøyaktig fremover. Når vi bruker drive gyro kan vi endre på farten,kpen,graderne og hvor langt vi kan kjøre, hvist man har for mye kp så begyner roboten å snurre ukontrolert vi bruker å ha 1 eller 2 kp når vi kjører fram over. Kp styrer hvor agresiv vi drar mot målet hvis vi drar før agresivt kommer den til å snurre ukontrolert. Negeatv eller posetiv verdi kommer vi til å svinge til høyre eller venstre. Drive gyro har også andre myblocks inni seg som p_ctrl og trippteler. Vi bruker trippteleren før å måle hvor mange cm den kjører fremover. 
