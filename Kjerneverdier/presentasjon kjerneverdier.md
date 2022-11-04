@@ -36,7 +36,7 @@ argument
 Hvis de absolutt  må bruke vår ide for å få inspirasjon skal vi  bare være stolte om noen syns vår ideen er såppas bra at de må kopiere den.
 
 # Tight loose tight
-
+## til neste gang: vår veileder ville involvere oss mer om TLT
 Vi fikk som tips å bruke TLT på laget som er en arbeids metode som brukes i cowork som er vår sponsor.
 Cowork bruker TLT i sin hverdag som løsning i krevende tider.
 
