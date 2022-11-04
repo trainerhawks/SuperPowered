@@ -1,15 +1,18 @@
         TEKNOLOGI PRESENTASJON
-# mer om sensorer. 
+ 
 Vi har to typer roboter for å finne ut hvilken robot som egner seg best med oppdragene.
 Det er også litt fordi de som vant i fjor på scandinavisk finale brukte spike. Da tenkte vi at den kanskje kunne brukes. i fjor brukte vi bare EV3. kanskje er det lettere med spike enn EV3.
 Om spike fungerer bra er det kanskje verdt å ta den med til neste år hvis vi skal delta en gang til. 
-
+ 
 Det finnes noen ulemper på robotene og noen fordeler her er noen av dem.
 Det som er bra med EV3 er det at den er solid og sterk og vanskelig og ødelegge. 
 Den største styrken med ev3 er at vi har brukt den i flere år. I år vil vi teste ut spike sånn at vi kan finne mere ut om den.
 Programmeringen til spike er lettere enn EV3 sin programmering. Spike bruker ordblokker, det gjør det lettere å se hva blokken gjør. EV3 bruker en mer avannsert blokktype fordi det ikke er direkte tydelig hva blokken gjør. I fjor brukte vi dog gear, det et type feste for verktøyet. Det har vi ikke laget på spike. Det er en fordel for EV3 og en ulempe for spike.
 Hjulene på spike er lett å ta på og av og man kan bytte under en kamp. EV3 har hjul som ligger langt inne i roboten. Derfor er det ikke så lett å ta av og på hjulene under en kamp. Hjulene på spike tar en risiko i at hjulene kan bli litt løs.
- 
+ # mer om sensorer.
+vi bruker fargesensor til å følge farger og hjelpe til i linjefølgeren.
+vi bruker gyro til å hjelpe roboten til å svinge.
+vivi kan bruke touch sensor men vi vil ikke
 
 Vi brukte bruksanvisningen som vi hadde i fjor den var til EV3 roboten.
 vi søkte på nettet etter spike bruksanvisninger. Vi bygde de spike robotene vi synes var best. Vi har 2 bygde spike roboter og 2 eller 3 EV3 roboten
