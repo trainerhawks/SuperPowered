@@ -11,7 +11,7 @@ Man bruker kjerneverdiene så mye uten at man tenker på det.
 I år har vi lært to nye ting å de to tingene er open source og Tight Loose Tight.
 
 # OPEN SOURCE
-
+## Til neste gang: hva bruker vi github til internt i laget?
 Vi på laget har bestemt oss for å ha open source altså åpen kildekode.
  Med å ha en åpen kildekode så legger vi alt vi gjør ut på git hub. Dette går under kjerneverdien inkludering fordi vi lar alle i hele verden få se hva vi driver med. Åpen kilde kode for oss betyr at vi deler våre ideer og løsninger relatert til FLL.
 Når vi bestemte oss for at vi skulle ha open source så tenkte vi på fordelene og ulempene med det. 
