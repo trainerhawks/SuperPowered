@@ -1,5 +1,5 @@
         TEKNOLOGI PRESENTASJON
-
+# mer om sensorer. 
 Vi har to typer roboter for å finne ut hvilken robot som egner seg best med oppdragene.
 Det er også litt fordi de som vant i fjor på scandinavisk finale brukte spike. Da tenkte vi at den kanskje kunne brukes. i fjor brukte vi bare EV3. kanskje er det lettere med spike enn EV3.
 Om spike fungerer bra er det kanskje verdt å ta den med til neste år hvis vi skal delta en gang til. 
@@ -30,3 +30,11 @@ Vi lager et program med existerende blokker fra EV3 programmet og setter de samm
 Myblocker har variabler inni seg som for den til å være mer presist, som å følge en linje og bruke gyroen mens vi snur og kjører. Vi har mybocker som kan beregne data inni i andre myblocks.
 
 Vi har f.eks. DRIVE GYRO som er en myblock som kjører framover mens den leser gyroen for å kjøre mer nøyaktig fremover. Når vi bruker drive gyro kan vi endre på farten,kpen,graderne og hvor langt vi kan kjøre, hvist man har for mye kp så begyner roboten å snurre ukontrolert vi bruker å ha 1 eller 2 kp når vi kjører fram over. Kp styrer hvor agresiv vi drar mot målet hvis vi drar før agresivt kommer den til å snurre ukontrolert. Negeatv eller posetiv verdi kommer vi til å svinge til høyre eller venstre. Drive gyro har også andre myblocks inni seg som p_ctrl og trippteler. Vi bruker trippteleren før å måle hvor mange cm den kjører fremover. 
+
+## programmeringskurs. 
+
+
+
+
+
+## Hvordan fant vi ut av alle problemene våre. 
