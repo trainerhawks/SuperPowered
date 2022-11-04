@@ -38,3 +38,7 @@ Vi har f.eks. DRIVE GYRO som er en myblock som kjører framover mens den leser g
 
 
 ## Hvordan fant vi ut av alle problemene våre. 
+
+
+
+## MASTERPROGRAM 
