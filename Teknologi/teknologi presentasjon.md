@@ -33,14 +33,14 @@ Vi har f.eks. DRIVE GYRO som er en myblock som kjører framover mens den leser g
 
 ## programmeringskurs. 
 HEDYCODE
-Vi har hatt et kurs i hedy programering tidligere i år der vi lærte om skriftlig programering.
-Vi dro inn på en nettside som tillhørte heddi og alle på laget programerte litt der. Når vi programerer med hedy programerer man med tekst språk som forekselpel 
-"ask what is youre name"
+Vi har hatt et kurs i hedy programering i mars der vi lærte om skriftlig programering.
+Vi dro inn på en nettside som tillhørte hedy og alle fikk programert. Hedy er programering med tekst og språk. Link til hedy nettside
 https://www.hedycode.com/hedy
 
 PYTON I MINECRAFT
-Vi har brukt pyton litt i minecraft når vi har jobbet med modellen til forskningspresentasjonen.
-Pyton er litt det same som hedy det er skriftlig programering.cc
+Vi har brukt pyton i minecraft når vi har programert agenten vår en liten robot i spillet.
+Pyton er litt det same som hedy det er skriftlig programering.
+Vi har valgt å bruke vanelige blokkker og ikke pyton fordi de fleste ikke kan programere pyton
 
 
 ## Hvordan fant vi ut av alle problemene våre. 
