@@ -1,5 +1,5 @@
         TEKNOLOGI PRESENTASJON
-# mer om sensorer. 
+ 
 Vi har to typer roboter for å finne ut hvilken robot som egner seg best med oppdragene.
 Det er også litt fordi de som vant i fjor på scandinavisk finale brukte spike. Da tenkte vi at den kanskje kunne brukes. i fjor brukte vi bare EV3. kanskje er det lettere med spike enn EV3. 
 Vi skal bruke både Spike og EV3 i år.  
@@ -9,7 +9,10 @@ Det som er bra med EV3 er det at den er solid og sterk og vanskelig og ødelegge
  I år vil vi teste ut spike sånn at vi kan finne mere ut om den.
 Programmeringen til spike er lettere enn EV3 sin programmering. Spike bruker ordblokker, det gjør det lettere å se hva blokken gjør. EV3 bruker en mer avansert blokktype fordi det ikke er direkte tydelig hva blokken gjør. Vi bruker noe som heter dog gear, det er et slags feste til verktøy som går veldig lett på og av. Det har vi ikke laget på spike. Det er en fordel for EV3 og en ulempe for spike.
 Hjulene på spike er lett å ta på og av og man kan bytte under en kamp. EV3 har hjul som ligger langt inne i roboten. Derfor er det ikke så lett å ta av og på hjulene under en kamp. Hjulene på spike tar en risiko i at hjulene kan bli litt løs.
- 
+ # mer om sensorer.
+vi bruker fargesensor til å følge farger og hjelpe til i linjefølgeren.
+vi bruker gyro til å hjelpe roboten til å svinge.
+vivi kan bruke touch sensor men vi vil ikke
 
 Vi brukte bruksanvisningen som vi hadde i fjor den var til EV3 roboten.
 vi søkte på nettet etter spike bruksanvisninger. Vi bygde de spike robotene vi synes var best. Vi har 2 bygde spike roboter og 2 eller 3 EV3 roboten
@@ -32,9 +35,15 @@ Myblocker har variabler inni seg som for den til å være mer presist, som å f�
 Vi har f.eks. DRIVE GYRO som er en myblock som kjører framover mens den leser gyroen for å kjøre mer nøyaktig fremover. Når vi bruker drive gyro kan vi endre på farten,kpen,graderne og hvor langt vi kan kjøre, hvist man har for mye kp så begyner roboten å snurre ukontrolert vi bruker å ha 1 eller 2 kp når vi kjører fram over. Kp styrer hvor agresiv vi drar mot målet hvis vi drar før agresivt kommer den til å snurre ukontrolert. Negeatv eller posetiv verdi kommer vi til å svinge til høyre eller venstre. Drive gyro har også andre myblocks inni seg som p_ctrl og trippteler. Vi bruker trippteleren før å måle hvor mange cm den kjører fremover. 
 
 ## programmeringskurs. 
+HEDYCODE
+Vi har hatt et kurs i hedy programering tidligere i år der vi lærte om skriftlig programering.
+Vi dro inn på en nettside som tillhørte heddi og alle på laget programerte litt der. Når vi programerer med hedy programerer man med tekst språk som forekselpel 
+"ask what is youre name"
+https://www.hedycode.com/hedy
 
-
-
+PYTON I MINECRAFT
+Vi har brukt pyton litt i minecraft når vi har jobbet med modellen til forskningspresentasjonen.
+Pyton er litt det same som hedy det er skriftlig programering.cc
 
 
 ## Hvordan fant vi ut av alle problemene våre. 
