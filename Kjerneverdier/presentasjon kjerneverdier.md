@@ -1,7 +1,7 @@
 
 # Kjerneverdi presentasjonen vår
 
-(dette skal være med i presentasjonen)
+(dette skal være med i presentasjonen) 
 # Når vi bruker kjerneverdiene
 
 Vi på laget bruker flere av kjerneverdiene gjenntatte ganger om dagen som for eksempel når vi hjelper hverandre og når vi inkluderer og støtter  hverandre.
