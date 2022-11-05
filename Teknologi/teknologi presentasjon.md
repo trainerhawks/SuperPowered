@@ -1,5 +1,5 @@
         TEKNOLOGI PRESENTASJON
- 
+ ## sammenligning av roboter. 
 Vi har to typer roboter for å finne ut hvilken robot som egner seg best med oppdragene.
 Det er også litt fordi de som vant i fjor på scandinavisk finale brukte spike. Da tenkte vi at den kanskje kunne brukes. i fjor brukte vi bare EV3. kanskje er det lettere med spike enn EV3. 
 Vi skal bruke både Spike og EV3 i år.  
@@ -7,27 +7,28 @@ Vi skal bruke både Spike og EV3 i år.
 Det finnes noen ulemper på robotene og noen fordeler her er noen av dem:
 Det som er bra med EV3 er det at den er solid og sterk og vanskelig og ødelegge. Siden vi har brukt EV3 så lenge er den lettere for oss å jobbe med den inni roboten.  
  I år vil vi teste ut spike sånn at vi kan finne mere ut om den.
+
 Programmeringen til spike er lettere enn EV3 sin programmering. Spike bruker ordblokker, det gjør det lettere å se hva blokken gjør. EV3 bruker en mer avansert blokktype fordi det ikke er direkte tydelig hva blokken gjør. Vi bruker noe som heter dog gear, det er et slags feste til verktøy som går veldig lett på og av. Det har vi ikke laget på spike. Det er en fordel for EV3 og en ulempe for spike.
 Hjulene på spike er lett å ta på og av og man kan bytte under en kamp. EV3 har hjul som ligger langt inne i roboten. Derfor er det ikke så lett å ta av og på hjulene under en kamp. Hjulene på spike tar en risiko i at hjulene kan bli litt løs.
- # mer om sensorer.
+ ## mer om sensorer.
 vi bruker fargesensor til å følge farger og hjelpe til i linjefølgeren.
 vi bruker gyro til å hjelpe roboten til å svinge.
-vivi kan bruke touch sensor men vi vil ikke
+vi kan bruke touch sensor men vi vil ikke
 
 Vi brukte bruksanvisningen som vi hadde i fjor den var til EV3 roboten.
 vi søkte på nettet etter spike bruksanvisninger. Vi bygde de spike robotene vi synes var best. Vi har 2 bygde spike roboter og 2 eller 3 EV3 roboten
 det er ikke den letteste men kreative delen av arbeidet. Om vi ville kunne de som bygde spike få bruke egen fantasi på designet. det ble 1 robot som var bygd av fantasi.
 
-# strategi på bana
+##  strategi på bana
 Vi laget en tabell der det står om energienhetene på robotbanen. vi har samlet alle oppdrag som har noe med energienhetene fordi vi ville finne de mest effektive oppdragene og som gir mest poeng. Vi må hente energienheter, fordi vi har ingen ved starten av kampen. 
 
 når vi lagde tabllen tok vi ideer og spørsmål fra den tabellen  som vi brukte
  i fjor. b.l.a stilte vi spørsmål "hvor mange energienheter" tok det og om det "oppdraget var avhenigig av andre oppdrag" 
 
 Så sammenlignet vi svarene som vi fikk fra tabellen. Noen oppdrag gir oss energienheter og der har vi skrevet minus tegnet. Hvert program har hver sin kollone i tabellen.
-I den andre tabellen vår kombinerte vi oppdragene. Vi skrev ned hvor mange energienheter det tok for oppdragene kombinert, så skrev vi maksimum og minimum poeng for oppdragene kombinert. Vi la sammen poengene for å finne hvilket kombinnert oppdrag ga mest poeng.
+I den andre tabellen vår kombinerte vi oppdragene. Vi skrev ned hvor mange energienheter det tok for oppdragene kombinert, så skrev vi maksimum og minimum poeng for oppdragene kombinert. Vi la sammen poengene for å finne hvilket kombinert oppdrag ga mest poeng.
 Når vi skulle finne de kombinerte oppdragene stilte vi på gruppa oss rundt robotbordet for å finne mulige kombinasjoner. Vi lagde tabeller i fjor også som vi tok inspirasjon fra. I fjor lagde vi 4 tabellerr men vi har bare laget to til i år..
-# Myblocks
+## Myblocks
 Vi lager et program med existerende blokker fra EV3 programmet og setter de sammen inn til en Myblock,slik at programmene skal bli mer presis og det blir en større sjansne for å lykkes med oppdraget.
 
 Myblocker har variabler inni seg som for den til å være mer presist, som å følge en linje og bruke gyroen mens vi snur og kjører. Vi har mybocker som kan beregne data inni i andre myblocks.
@@ -41,13 +42,13 @@ Vi dro inn på en nettside som tillhørte hedy og alle fikk programert. Hedy er 
 https://www.hedycode.com/hedy
 
 PYTON I MINECRAFT
-Vi har brukt pyton i minecraft når vi har programert agenten vår en liten robot i spillet.
+Vi har brukt pyton og blokker i minecraft når vi har programert agenten vår en liten robot i spillet.
 Pyton er litt det same som hedy det er skriftlig programering.
-Vi har valgt å bruke vanelige blokkker og ikke pyton fordi de fleste ikke kan programere pyton
+Vi har valgt å bruke vanelige blokkker og ikke pyton fordi de fleste kan ikke programere pyton og det er litt avansert.
 
 
 ## Hvordan fant vi ut av alle problemene våre. 
 
 
 
-## MASTERPROGRAM 
+## Masterprogrammene.
