@@ -36,15 +36,18 @@ Myblocker har variabler inni seg som for den til å være mer presist, som å f�
 Vi har f.eks. DRIVE GYRO som er en myblock som kjører framover mens den leser gyroen for å kjøre mer nøyaktig fremover. Når vi bruker drive gyro kan vi endre på farten,kpen,graderne og hvor langt vi kan kjøre, hvist man har for mye kp så begyner roboten å snurre ukontrolert vi bruker å ha 1 eller 2 kp når vi kjører fram over. Kp styrer hvor agresiv vi drar mot målet hvis vi drar før agresivt kommer den til å snurre ukontrolert. Negeatv eller posetiv verdi kommer vi til å svinge til høyre eller venstre. Drive gyro har også andre myblocks inni seg som p_ctrl og trippteler. Vi bruker trippteleren før å måle hvor mange cm den kjører fremover. 
 
 ## programmeringskurs. 
-HEDYCODE
+
+### HEDYCODE
+
 Vi har hatt et kurs i hedy programering i mars der vi lærte om skriftlig programering.
 Vi dro inn på en nettside som tillhørte hedy og alle fikk programert. Hedy er programering med tekst og språk. Link til hedy nettside
 https://www.hedycode.com/hedy
 
-PYTON I MINECRAFT
+### PYTON I MINECRAFT
+
 Vi har brukt pyton og blokker i minecraft når vi har programert agenten vår en liten robot i spillet.
 Pyton er litt det same som hedy det er skriftlig programering.
-Vi har valgt å bruke vanelige blokkker og ikke pyton fordi de fleste kan ikke programere pyton og det er litt avansert.
+Vi har valgt å bruke vanelige blokkker når vi programerer roboter og ikke pyton fordi de fleste kan ikke programere pyton og det er litt avansert.
 
 
 ## Hvordan fant vi ut av alle problemene våre. 
