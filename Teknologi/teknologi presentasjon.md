@@ -31,7 +31,7 @@ når vi lagde tabellen tok vi ideen og fra den tabellen  som vi brukte
 Så sammenlignet vi svarene. Noen oppdrag gir oss energienheter og der har vi skrevet minus tegnet. Hvert program har hver sin kollone i tabellen.
 I den andre tabellen  kombinerte vi oppdragene. Vi skrev ned hvor mange energienheter det tok for oppdragene kombinert, så skrev vi maksimum og minimum poeng for oppdragene kombinert. Vi la sammen poengene for å finne hvilket kombinnert oppdrag ga mest poeng.
 Når vi skulle finne de kombinerte oppdragene stilte vi på gruppa oss rundt robotbordet for å finne mulige kombinasjoner.
-# Myblocks filip
+# Myblocks filip og Ingeborg
 Vi lager et program med existerende blokker fra EV3 programmet og setter de sammen inn til en Myblock,slik at programmene skal bli mer presis og det blir en større sjansne for å lykkes med oppdraget.
 Myblocker har variabler inni seg som for den til å være mer presist, som å følge en linje og bruke gyroen mens vi snur og kjører. Vi har mybocker som kan beregne data inni i andre myblocks.
 
@@ -51,3 +51,7 @@ Vi har valgt å bruke vanelige blokkker og ikke pyton fordi det var litt vanskel
 
 
 ## MASTERPROGRAM 
+
+
+## GitHub 
+Vi er mange på laget så får å sammarbeide jobber vi med GitHub og sammarbeider med det, vi kan jobbe på mange PCer og så laste det ned på GitHub det er en bra ting fordi vi er et stort lag. Det kan også oppstå konflikter når vi jobber på samme fil.
