@@ -11,14 +11,13 @@ Man bruker kjerneverdiene så mye uten at man tenker på det.
 I år har vi lært to nye ting å de to tingene er open source og Tight Loose Tight.
 
 # OPEN SOURCE
-## Til neste gang: hva bruker vi github til internt i laget?
 Vi på laget har bestemt oss for å ha open source altså åpen kildekode.
- Med å ha en åpen kildekode så legger vi alt vi gjør ut på git hub. Dette går under kjerneverdien inkludering fordi vi lar alle i hele verden få se hva vi driver med. Åpen kilde kode for oss betyr at vi deler våre ideer og løsninger relatert til FLL.
+Med å ha en åpen kildekode så legger vi alt vi gjør ut på git hub. Dette går under kjerneverdien inkludering fordi vi lar alle i hele verden få se hva vi driver med. Åpen kilde kode for oss betyr at vi deler våre ideer og løsninger relatert til FLL.
 Når vi bestemte oss for at vi skulle ha open source så tenkte vi på fordelene og ulempene med det. 
 
 
 Dere lurer sikkert på hva dette har med kjerneverdiene å gjøre og hvorfor vi har inkludert dette i presentasjonen. Det er fordi at det å ha open source har flere kjerneverdier i seg som for eksempel inkludering og lagarbeid.
-Det er også en del av kjerneverdien lagarbeid fordi at vi hjelper andre lag til å bli inspirert til å bli med på first lego league og vi hjelper dem til å komme på ideer.
+Det er også en del av kjerneverdien innvirkning fordi at vi hjelper andre lag til å bli inspirert til å bli med på first lego league og vi hjelper dem til å komme på ideer.
 
 ## ulemper med open source
 
@@ -34,6 +33,10 @@ Hvis dommerne sier at vi har helt lik presentasjon så kan vi bare gå inn på n
 argument 
 
 Hvis de absolutt  må bruke vår ide for å få inspirasjon skal vi  bare være stolte om noen syns vår ideen er såppas bra at de må kopiere den.
+
+Vi har en utfordring i vårt lag det er at vi er et stort lag på 17 stk .
+Da er git hub en god løsing fordi at noen kan skrive på det å legge det ut i skyen sånn at noen andre neste gang kan fortsette på det
+
 
 # Tight loose tight
 Vår veileder ville involvere oss i TLT fordi at TLT  er en lærerik måte å jobbe på.
