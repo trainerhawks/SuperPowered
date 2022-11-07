@@ -9,6 +9,7 @@ Det som er bra med EV3 er det at den er solid og sterk og vanskelig og ødelegge
 Den største styrken med ev3 er at vi har brukt den i flere år. 
 #kaper
 Programmeringen til spike er lettere enn EV3 sin programmering. Spike bruker ordblokker, det gjør det lettere å se hva blokken gjør. EV3 bruker en mer avannsert blokktype fordi det ikke er direkte tydelig hva blokken gjør. I fjor brukte vi dog gear, det et type feste for verktøyet. Det har vi ikke laget på spike. Det er en fordel for EV3 og en ulempe for spike.
+Spike har ferdigbygd masterprogram. ev3 må vi programere masterprogramet.
 
  # Dina
 på ev3 bruker vi fargesensor til å følge farger og hjelpe til i linjefølgeren.
