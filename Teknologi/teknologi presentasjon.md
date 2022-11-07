@@ -54,4 +54,4 @@ Vi har valgt å bruke vanelige blokkker og ikke pyton fordi det var litt vanskel
 
 
 ## GitHub 
-Vi jobber med GitHub på laget og sammarbeider med det, vi kan jobbe på mange PCer og så laste det ned på GitHub det er en bra ting fordi vi er et stort lag. Det kan også oppstå konflikter når vi jobber på samme fil.
+Vi er mange på laget så får å sammarbeide jobber vi med GitHub og sammarbeider med det, vi kan jobbe på mange PCer og så laste det ned på GitHub det er en bra ting fordi vi er et stort lag. Det kan også oppstå konflikter når vi jobber på samme fil.
