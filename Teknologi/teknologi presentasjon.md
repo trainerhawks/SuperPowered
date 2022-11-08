@@ -3,14 +3,13 @@
 Vi har to typer roboter for å finne ut hvilken robot som egner seg best med oppdragene.
 I fjor brukte vi bare EV3. kanskje er det lettere med spike enn EV3.
 Om spike fungerer bra er det kanskje verdt å ta den med til neste år hvis vi skal delta en gang til. 
-#aune 
+# aune 
 Det finnes noen ulemper på robotene og noen fordeler her er noen av dem.
 Det som er bra med EV3 er det at den er solid og sterk og vanskelig og ødelegge. 
 Den største styrken med ev3 er at vi har brukt den i flere år. 
-#kaper
+# kasper
 Programmeringen til spike er lettere enn EV3 sin programmering. Spike bruker ordblokker, det gjør det lettere å se hva blokken gjør. EV3 bruker en mer avannsert blokktype fordi det ikke er direkte tydelig hva blokken gjør. I fjor brukte vi dog gear, det et type feste for verktøyet. Det har vi ikke laget på spike. Det er en fordel for EV3 og en ulempe for spike.
-Spike har ferdigbygd masterprogram. ev3 må vi programere masterprogramet.
-## MASTERPROGRAM med demo Sivert
+# MASTERPROGRAM med demo Sivert
 
  # Dina
 på ev3 bruker vi fargesensor til å følge farger og hjelpe til i linjefølgeren.
@@ -23,7 +22,7 @@ på spike bruker vi fargesensor og gyro sensor
 Vi brukte byggetegningen som vi hadde i fjor den var til EV3 roboten.
 vi søkte på nettet etter spike byggetegninger men vi fant ikke noen bra bruksavisinger.Da ble det 1 spikr robot  av fantasi.
 
-# strategi på bana # alma
+# strategi på bana alma
 Vi laget en tabell der vi har samlet alle oppdrag som har noe med energienhetene fordi vi ville finne de mest effektive oppdragene og som gir mest poeng. Vi må hente energienheter, fordi vi har ingen ved starten av kampen. 
 # alma
 når vi lagde tabellen tok vi ideen og fra den tabellen  som vi brukte
@@ -33,11 +32,12 @@ når vi lagde tabellen tok vi ideen og fra den tabellen  som vi brukte
 Så sammenlignet vi svarene. Noen oppdrag gir oss energienheter og der har vi skrevet minus tegnet. Hvert program har hver sin kollone i tabellen.
 I den andre tabellen  kombinerte vi oppdragene. Vi skrev ned hvor mange energienheter det tok for oppdragene kombinert, så skrev vi maksimum og minimum poeng for oppdragene kombinert. Vi la sammen poengene for å finne hvilket kombinnert oppdrag ga mest poeng.
 Når vi skulle finne de kombinerte oppdragene stilte vi på gruppa oss rundt robotbordet for å finne mulige kombinasjoner.
-# Myblocks filip og Ingeborg
-Vi lager et program med existerende blokker fra EV3 programmet og setter de sammen inn til en Myblock,slik at programmene skal bli mer presis og det blir en større sjansne for å lykkes med oppdraget.
-Myblocker har variabler inni seg som for den til å være mer presist, som å følge en linje og bruke gyroen mens vi snur og kjører. Vi har mybocker som kan beregne data inni i andre myblocks.
 
-Vi har f.eks. DRIVE GYRO som er en myblock som kjører framover mens den leser gyroen for å kjøre mer nøyaktig fremover. Når vi bruker drive gyro kan vi endre på farten,kpen,graderne og hvor langt vi kan kjøre, hvist man har for mye kp så begyner roboten å snurre ukontrolert vi bruker å ha 1 eller 2 kp når vi kjører fram over. Kp styrer hvor agresiv vi drar mot målet hvis vi drar før agresivt kommer den til å snurre ukontrolert. Negeatv eller posetiv verdi kommer vi til å svinge til høyre eller venstre. Drive gyro har også andre myblocks inni seg som p_ctrl og trippteler. Vi bruker trippteleren før å måle hvor mange cm den kjører fremover. 
+# Myblocks filip 
+Vi lager et program med existerende blokker fra EV3 programmet og setter de sammen inn til en Myblock,slik at programmene skal bli mer presis og det blir en større sjanse for å lykkes med oppdraget.
+
+I Myblock kan vi bruke variabler for å justere hvordan blokkene skal oppføre seg, f.eks. når vi følger en linje og bruker gyroen mens vi snur og kjører.
+Vi har myblocker som kan beregne data som vi igjen kan bruke i andre myblocks. 
 
 ## programmeringskurs. mathilde
 vi har programert med ordblokker på ev3 i 2 år.
@@ -51,4 +51,4 @@ Vi har valgt å bruke vanelige blokkker og ikke pyton på robotene fordi det er 
 ## Hvordan fant vi ut av alle problemene våre. 
 
 ## GitHub 
-Vi er mange på laget så får å sammarbeide jobber vi med GitHub og sammarbeider med det, vi kan jobbe på mange PCer og så laste det ned på GitHub det er en bra ting fordi vi er et stort lag. Det kan også oppstå konflikter når vi jobber på samme fil.
+Vi er mange på laget så for å sammarbeide bruker vi GitHub.Vi kan jobbe på mange PCer og så laste det opp og ned på GitHub.Det er en bra ting fordi vi er et stort lag. Det kan også oppstå konflikter når flere jobber på samme fil inne på GitHub, da må vi finne ut hvilken versjon vi skal beholde.
