@@ -3,13 +3,12 @@
 Vi har to typer roboter for å finne ut hvilken robot som egner seg best med oppdragene.
 I fjor brukte vi bare EV3. kanskje er det lettere med spike enn EV3.
 Om spike fungerer bra er det kanskje verdt å ta den med til neste år hvis vi skal delta en gang til. 
-#aune 
+# aune 
 Det finnes noen ulemper på robotene og noen fordeler her er noen av dem.
 Det som er bra med EV3 er det at den er solid og sterk og vanskelig og ødelegge. 
 Den største styrken med ev3 er at vi har brukt den i flere år. 
-#kaper
+# kasper
 Programmeringen til spike er lettere enn EV3 sin programmering. Spike bruker ordblokker, det gjør det lettere å se hva blokken gjør. EV3 bruker en mer avannsert blokktype fordi det ikke er direkte tydelig hva blokken gjør. I fjor brukte vi dog gear, det et type feste for verktøyet. Det har vi ikke laget på spike. Det er en fordel for EV3 og en ulempe for spike.
-Spike har ferdigbygd masterprogram. ev3 må vi programere masterprogramet.
 ## MASTERPROGRAM med demo Sivert
 
  # Dina
@@ -21,10 +20,10 @@ på spike bruker vi fargesensor og gyro sensor
 
 # benjamin
 Vi brukte byggetegningen som vi hadde i fjor den var til EV3 roboten.
-vi søkte på nettet etter spike byggetegninger men vi fant ikke noen bra bruksavisinger.Da ble det 1 spikr robot  av fantasi.
+vi søkte på nettet etter spike byggetegninger men vi fant ikke noen bra bruksavisinger.Da ble det 1 spike robot  av fantasi.
 
-# strategi på bana # alma
-Vi laget en tabell der vi har samlet alle oppdrag som har noe med energienhetene fordi vi ville finne de mest effektive oppdragene og som gir mest poeng. Vi må hente energienheter, fordi vi har ingen ved starten av kampen. 
+# strategi på bana # josef
+Vi laget en tabell der vi har samlet alle oppdrag som har noe med energienhetene. Vi ville finne de mest effektive oppdragene og som gir mest poeng. Vi må hente energienheter, fordi vi har ingen ved starten av kampen. 
 # alma
 når vi lagde tabellen tok vi ideen og fra den tabellen  som vi brukte
  i fjor. b.l.a stilte vi spørsmål "hvor mange energienheter" tok det og om det "oppdraget var avhenigig av andre oppdrag" I fjor lagde vi 4 tabellerr men vi har bare laget to til i år..
