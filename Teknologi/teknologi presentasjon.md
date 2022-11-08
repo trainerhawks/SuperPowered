@@ -41,11 +41,11 @@ Vi har f.eks. DRIVE GYRO som er en myblock som kjører framover mens den leser g
 
 ## programmeringskurs. mathilde
 vi har programert med ordblokker på ev3 i 2 år.
-i år har vi har hatt et kurs i hedy programering i mars der alle lærte om skriftlig programering.
- vi brukte hedy for å se om vi kunne bruke pyton til å programere.
+i år har vi har hatt et kurs i hedy programering i juni der alle lærte om skriftlig programering.
+vi brukte hedy for å se om vi kunne bruke pyton til å programere robotene.
 
-noen av oss har brukt pyton i minecraft.
-Vi har valgt å bruke vanelige blokkker og ikke pyton fordi det var litt vanskelig.
+noen av oss har brukt pyton i minecraft  for å programere.
+Vi har valgt å bruke vanelige blokkker og ikke pyton på robotene fordi det er litt vanskeligere.
 
 
 ## Hvordan fant vi ut av alle problemene våre. 
