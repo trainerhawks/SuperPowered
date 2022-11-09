@@ -53,6 +53,7 @@ Vi har valgt å bruke vanelige blokkker og ikke pyton på robotene fordi det er 
 ## GitHub mens Maya viser 
 Vi er mange på laget så for å sammarbeide bruker vi GitHub. Vi kan jobbe på mange PCer og så laste det opp og ned på GitHub.Det er en bra ting fordi vi er et stort lag. Det kan også oppstå konflikter når flere jobber på samme fil inne på GitHub, da må vi finne ut hvilken versjon vi skal beholde.
 
+## Sunniva avslutter
+
 ## Hvordan fant vi ut av alle problemene våre. 
 
-## Sunniva avslutter
