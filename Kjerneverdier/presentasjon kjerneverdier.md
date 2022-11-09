@@ -35,7 +35,7 @@ argument
 Hvis de absolutt  må bruke vår ide for å få inspirasjon skal vi  bare være stolte om noen syns vår ideen er såppas bra at de må kopiere den.
 
 Vi har en utfordring i vårt lag det er at vi er et stort lag på 17 stk .
-Da er git hub en god løsing fordi at noen kan skrive på det å legge det ut i skyen sånn at noen andre neste gang kan fortsette på det
+Da er git hub en god løsing fordi at alle har tilgang på det vi gjør.
 
 
 # Tight loose tight
