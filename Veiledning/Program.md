@@ -7,17 +7,15 @@
 
 09:00 Øving teknologi presentasjon
 
-09:10 Øving forskningspresentasjon
-
-09:15 Øving robotkamp
+09:15 Øving robotkamp, alle robotkjørere
 
 09:15 PIT Vakt
 
-09:30 Øving robotkamp
+09:30 Øving robotkamp, alle robotkjørere
 
 10:00 Åpningsseremoni
 
-10:30 Øving robotkamp
+10:30 Øving robotkamp, alle robotkjørere
 
 10:30 PIT Vakt
 

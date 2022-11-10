@@ -6,6 +6,8 @@ Video 2 minutter alle sammen
 
 PIT vakt
 
+Ta med iPad - Mathilde, Kasper, Ingeborg
+
 ## Til foreldre
 Arena tilgjengelig fra fredag 19:00 for å sjekke og øve om noen ønsker det
 
