@@ -5,6 +5,8 @@
 ---
 08:45 Oppmøte. Rigge PIT
 
+08:45 Veiledermøte
+
 09:00 Øving teknologi presentasjon
 
 09:15 Øving robotkamp, alle robotkjørere
