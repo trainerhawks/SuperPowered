@@ -33,6 +33,8 @@
 
 12:30 Øving kjernverdi presentasjon
 
+1230 Lunsj
+
 12:30 PIT Vakt
 
 13:00 Kjerneverdi presentasjon
