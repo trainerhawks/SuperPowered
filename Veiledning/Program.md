@@ -39,6 +39,9 @@
 11:52 Robotkamp
 * Kasper, Josef, Benjamin, Sivert
 
+12:00 PIT Vakt
+* Alma, Ingeborg
+
 12:15 Robotkamp
 * Sivert, Filip, Aune, Tage
 
@@ -55,9 +58,6 @@
 * Sivert, Tage
 
 13:50 PIT Vakt
-* Alma, Ingeborg
-
-14:10 PIT Vakt
 * Mathilde, Helmine
  
 14:45 Prisutdelinger og avslutningsseremoni
